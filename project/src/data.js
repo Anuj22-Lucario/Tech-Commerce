@@ -28,4 +28,11 @@ export const productData = [
     desc: "ASUS TUF A15 (2025) AMD Ryzen 7 7445HS,Gaming Laptop,RTX 3050-4GB,75W TGP,16GB RAM (Upgradeable Upto 64GB)",
     img: "https://m.media-amazon.com/images/I/815OXLbHBjL._SX569_.jpg",
   },
+  {
+  id: 5,
+  name: "Gaming Headset X",
+  price: "5,500",
+  desc: "Noise cancelling, 7.1 Surround Sound.",
+  img: "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=500",
+},
 ];
