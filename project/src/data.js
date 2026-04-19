@@ -35,4 +35,11 @@ export const productData = [
   desc: "Noise cancelling, 7.1 Surround Sound.",
   img: "https://images.unsplash.com/photo-1546435770-a3e426bf472b?auto=format&fit=crop&w=500",
 },
+{
+  id: 6,
+  name: "Zebronics Transformer M Plus",
+  price: "599",
+  desc: "Zebronics Transformer M Plus Wired Gaming Mouse, Up to 12800 DPI, 6 Buttons with a 6-Level DPI Switch, 8 RGB Modes, 1000Hz Polling Rate, 1.5m Detachable Cable, Gaming Grade Sensor (Multicolor).",
+  img: "https://m.media-amazon.com/images/I/71Jj4eUSJCL._SX569_.jpg",
+},
 ];
