@@ -91,7 +91,7 @@ body {
 .product-card {
     display: flex;
     align-items: center;
-    background: rgba(255, 255, 255, 0.03);
+    background-color: rgba(255, 255, 255, 0.03);
     border: 1px solid rgba(255, 255, 255, 0.1);
     border-radius: 15px;
     padding: 30px;
@@ -107,11 +107,10 @@ body {
 }
 
 .product-img {
-    width: 250px;
-    height: 160px;
-    object-fit: cover;
-    border-radius: 10px;
-    margin-right: 40px;
+    width: 25%;
+    height: 200px;
+    object-fit: contain;
+    background-color: rgba(255, 255, 255, 0.03);
 }
 
 .product-info {
